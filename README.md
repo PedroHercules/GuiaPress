@@ -1,10 +1,10 @@
 # GuiaPress
 
-Sistema de publicação e vizualização de artigos.
+Sistema de publicação e vizualização de artigos com CRUD.
 
 Tecnologias:
--HTML
--CSS
--EJS
--NodeJs
--MySql
+- HTML
+- CSS
+- EJS
+- NodeJs
+- MySql
